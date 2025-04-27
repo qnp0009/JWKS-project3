@@ -26,4 +26,4 @@ A secure FastAPI-based JSON Web Key Set (JWKS) server with user registration and
    git clone https://github.com/YOUR-USERNAME/jwks-server.git
    cd jwks-server
 ## Gradebot issue
-The 401 Unauthorized errors occur because the gradebot's authentication requests may not be matching my server's expected format.
+The 401 Unauthorized errors occur because the gradebot's authentication requests may not be matching my server's expected format in main.py.
